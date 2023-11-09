@@ -52,6 +52,8 @@ input {
   font-family: inherit;
   font-size: 100%;
   margin: 0;
+  -webkit-appearance: none;
+  -moz-appearance: none;
   padding: 0;
 }
 
