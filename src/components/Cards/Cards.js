@@ -47,25 +47,13 @@ export default function Cards() {
   return (
     <div className={'cards'}>
       <div className={'cards__body'}>
-        <Card img={require(`./img/cards/card-1.jpg`)}>
+        <Card img={require(`./img/card-1.jpg`)}>
           <CardTitle title={'Название карточки'} />
           <CardText text={'Небольшой пример текста, который будет построен на заголовке карты и составляет основную часть содержимого карты.'} />
           <CardLink link={'#'} text={'Ссылка куда-нибудь'} />
         </Card>
 
-        <Card img={require(`./img/cards/card-2.jpg`)}>
-          <CardTitle title={'Название карточки'} />
-          <CardText text={'Небольшой пример текста, который будет построен на заголовке карты и составляет основную часть содержимого карты.'} />
-          <CardLink link={'#'} text={'Ссылка куда-нибудь'} />
-        </Card>
-
-        <Card>
-          <CardTitle title={'Особый титульный режим'} />
-          <CardText text={'Со вспомогательным текстом ниже в качестве естественного перехода к дополнительному контенту.'} />
-          <CardLink link={'#'} text={'Ссылка куда-нибудь'} />
-        </Card>
-
-        <Card img={require(`./img/cards/card-3.jpg`)}>
+        <Card img={require(`./img/card-2.jpg`)}>
           <CardTitle title={'Название карточки'} />
           <CardText text={'Небольшой пример текста, который будет построен на заголовке карты и составляет основную часть содержимого карты.'} />
           <CardLink link={'#'} text={'Ссылка куда-нибудь'} />
@@ -77,7 +65,19 @@ export default function Cards() {
           <CardLink link={'#'} text={'Ссылка куда-нибудь'} />
         </Card>
 
-        <Card img={require(`./img/cards/card-4.jpg`)}>
+        <Card img={require(`./img/card-3.jpg`)}>
+          <CardTitle title={'Название карточки'} />
+          <CardText text={'Небольшой пример текста, который будет построен на заголовке карты и составляет основную часть содержимого карты.'} />
+          <CardLink link={'#'} text={'Ссылка куда-нибудь'} />
+        </Card>
+
+        <Card>
+          <CardTitle title={'Особый титульный режим'} />
+          <CardText text={'Со вспомогательным текстом ниже в качестве естественного перехода к дополнительному контенту.'} />
+          <CardLink link={'#'} text={'Ссылка куда-нибудь'} />
+        </Card>
+
+        <Card img={require(`./img/card-4.jpg`)}>
           <CardTitle title={'Название карточки'} />
           <CardText text={'Небольшой пример текста, который будет построен на заголовке карты и составляет основную часть содержимого карты.'} />
           <CardLink link={'#'} text={'Ссылка куда-нибудь'} />
