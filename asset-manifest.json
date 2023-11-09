@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Homework-RA5-Composition/static/css/main.e0730220.css",
+    "main.css": "/Homework-RA5-Composition/static/css/main.8ff6bc72.css",
     "main.js": "/Homework-RA5-Composition/static/js/main.87ea1b1b.js",
     "static/media/card-4.jpg": "/Homework-RA5-Composition/static/media/card-4.27c195320aad08b51f6a.jpg",
     "static/media/card-1.jpg": "/Homework-RA5-Composition/static/media/card-1.678eeb786b97159af552.jpg",
@@ -9,11 +9,11 @@
     "static/media/Montserrat-Regular.woff": "/Homework-RA5-Composition/static/media/Montserrat-Regular.2f9bb87d767918726ee3.woff",
     "static/media/card-2.jpg": "/Homework-RA5-Composition/static/media/card-2.fd2f29d3f9e065dd7934.jpg",
     "index.html": "/Homework-RA5-Composition/index.html",
-    "main.e0730220.css.map": "/Homework-RA5-Composition/static/css/main.e0730220.css.map",
+    "main.8ff6bc72.css.map": "/Homework-RA5-Composition/static/css/main.8ff6bc72.css.map",
     "main.87ea1b1b.js.map": "/Homework-RA5-Composition/static/js/main.87ea1b1b.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0730220.css",
+    "static/css/main.8ff6bc72.css",
     "static/js/main.87ea1b1b.js"
   ]
 }
